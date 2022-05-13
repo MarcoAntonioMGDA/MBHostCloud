@@ -1,0 +1,139 @@
+#about {
+    p {
+        strong {
+            i {
+                color: $color3;
+            }
+        }
+    }
+}
+
+#brand {
+
+    .brand-box {
+        margin-top: 60px;
+        //background: gray;
+        filter: drop-shadow(8px 8px 10px rgba(128, 128, 128, 0.36));
+        background: #f3f3f3;
+        padding: 10px 20px 20px 20px;
+        border-radius: 30px;
+        transition: 0.5s all;
+
+        &:hover {
+            transform: scale(1.05);
+        }
+
+        .icon-ctnir {
+            background: #f3f3f3;
+            width: 75px;
+            height: 75px;
+            font-size: 35px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: -40px;
+            color: $color3;
+            border: 7.5px solid white;
+            //position: relative;
+            //top: -38px;
+        }
+
+        h2 {
+            padding: 10px 0px;
+        }
+
+        .features {
+            padding: 5px 0px;
+
+            p {
+                //margin-top: -37px;
+                text-align: center;
+                line-height: 2em;
+                font-size: 17px;
+            }
+        }
+        .p-btn {
+            display: block;
+            padding: 15px;
+            width: 100%;
+            max-width: 200px;
+            background: $color1;
+            margin: 10px auto;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            transition: 0.3s;
+            &:hover {
+                background: $color2;
+            }
+        }
+    }
+}
+
+#services {
+    .service-box {
+        padding: 10px;
+        border: 1px solid rgba(0, 0, 0, 0.10);
+        border-radius: 10px;
+        background: white;
+        filter: drop-shadow(8px 8px 10px rgba(29, 53, 87, 0.35));
+        transition: 0.3s all;
+
+        &:hover {
+            transform: scale(1.05);
+        }
+
+        h2 {
+            text-align: left;
+            width: 100%;
+
+            @media (max-width: $break-small) {
+                text-align: center;
+            }
+        }
+
+        p {
+            width: 100%;
+            text-align: justify;
+        }
+    }
+}
+
+
+#contact {
+    .middle-box {
+        @media (min-width: $break-intermedium) {
+            border-left: 1px solid rgba(128, 128, 128, 0.15);
+            border-right: 1px solid rgba(128, 128, 128, 0.15);
+        }
+
+        @media (max-width: $break-medium) {
+            border-top: 1px solid rgba(128, 128, 128, 0.15);
+            border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+            padding: 10px 0px;
+        }
+
+    }
+
+    a {
+        text-decoration: none;
+        color: #1f1f1f;
+        font-weight: bold;
+        transition: 0.5s all;
+
+        &:hover {
+            color: $color1;
+        }
+    }
+    .map-container {
+    padding-top: 20px;
+
+    .place-map {
+        width: 100%;
+        height: 50vh;
+    }
+}
+}
