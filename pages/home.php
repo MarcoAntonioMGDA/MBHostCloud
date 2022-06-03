@@ -176,7 +176,7 @@
     </div>
     <br>
     <br>
-    <p class="tac lh2em fs15px maxw900px  mauto">Los precios descritos en los paquetes ya incluyen <strong>impuestos</strong></p>
+    <p class="tac lh2em fs15px maxw900px  mauto">Los precios descritos en los paquetes ya incluyen <strong>impuestos</strong><br>Los precios pueden <strong>cambiar</strong> en cualquier momento.</p>
 </div>
 <!--<div class="page-section" id="documents">
     <h1 class="fs40px" data-aos="flip-up" data-aos-duration="800">Documents</h1>
