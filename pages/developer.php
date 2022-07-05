@@ -121,7 +121,7 @@
         <div class="brand-box box-4 box-i-6 box-m-10 box-p-12" data-aos="zoom-in" data-aos-duration="800">
             <p class="icon-ctnir"><i class="fas fa-car"></i></p>
             <h2>PRO</h2>
-            <h1 class="fs40px"><span class="fs25px">$</span>28 <span class="fs18px">/ Anual</span></h1>
+            <h1 class="fs40px"><span class="fs25px">$</span>14 <span class="fs18px">/ Anual</span></h1>
             <div class="features">
                 <p><strong>DirectAdmin</strong></p>
                 <p>💾 5GB SSD</p>
@@ -140,7 +140,7 @@
         <div class="brand-box box-4 box-i-6 box-m-10 box-p-12" data-aos="zoom-in" data-aos-duration="800">
             <p class="icon-ctnir"><i class="fas fa-fighter-jet"></i></p>
             <h2>PREMIUM</h2>
-            <h1 class="fs40px"><span class="fs25px">$</span>44,<span class="fs18px">80 / Anual</span></h1>
+            <h1 class="fs40px"><span class="fs25px">$</span>17,<span class="fs18px">92 / Anual</span></h1>
             <div class="features">
                <p><strong>DirectAdmin</strong></p>
                 <p>💾 10GB SSD</p>
@@ -158,7 +158,7 @@
         <div class="brand-box box-4 box-i-6 box-m-10 box-p-12" data-aos="zoom-in" data-aos-duration="800">
             <p class="icon-ctnir"><i class="fas fa-digital-tachograph"></i></p>
             <h2>GOLD</h2>
-            <h1 class="fs40px"><span class="fs25px">$</span>56 <span class="fs18px">/ Anual</span></h1>
+            <h1 class="fs40px"><span class="fs25px">$</span>25, <span class="fs18px">20 / Anual</span></h1>
             <div class="features">
                 <p><strong>DirectAdmin</strong></p>
                 <p>💾 20GB SSD</p>
@@ -176,6 +176,8 @@
     </div>
     <br>
     <br>
+    <p class="tac lh2em fs15px maxw900px  mauto tbold">Estos precios son exclusivamente validos para clientes con código <em>PROGRAMADOR</em></p>
+    <p class="tac lh2em fs15px maxw900px  mauto">Se aplicará siempre la promoción con el  <strong>mayor descuento</strong>.</p>
     <p class="tac lh2em fs15px maxw900px  mauto">Los precios descritos en los paquetes ya incluyen <strong>impuestos</strong><br>Los precios pueden <strong>cambiar</strong> en cualquier momento.</p>
 </div>
 <!--<div class="page-section" id="documents">
